@@ -1,0 +1,48 @@
+:root{
+  margin: 0%;
+  padding: 0%;
+  
+}
+
+.container1{
+  background-color:  hsl(148, 38%, 91%);
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inner-container{
+  background-color: white;
+  width: 60%;
+  height: 80vh;
+  padding: 3%;
+  border-radius: 16px;
+  display: grid;
+}
+
+.radio-container{
+  display: flex;
+  gap: 2rem;
+}
+
+.form-check-border{
+  border: 1px solid hsl(186, 15%, 59%);
+  border-radius: 8px;
+  padding: 0.2rem;
+  width: 50%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem; 
+
+}
+
+.button-backgorund{
+  background-color: hsl(169, 82%, 27%);
+}
+
+.checkbox-size{
+  font-size: small;
+}

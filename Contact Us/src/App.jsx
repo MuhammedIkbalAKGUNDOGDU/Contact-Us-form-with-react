@@ -92,7 +92,7 @@ const App = () => {
           </div>
           <div class="d-grid gap-2 ">
             <button class="btn btn-primary button-backgorund " type="button">
-              Button
+              Submit
             </button>
           </div>
         </div>
